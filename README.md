@@ -4,7 +4,7 @@ My name's Adhy Wiranata - Software Engineer based in Jakarta, Indonesia with 5+ 
 
 - 🌱 As a Software engineer, I am driven to craft software products with impact.
 - ⚙️ I love problems and passionate in solving them through pragmatic solutions.
-- 🔭 I also love tinkering with stuffs, especially on Elixir, Haskell, Scala, Clojure, Elm, and some other techie programming stuff.
+- 🔭 I also love tinkering with stuffs, especially on Haskell, Scala, Clojure, and Elm.
 - 🤓 I love any kind of space-themed things. Totally nerdy, huh? 
 
 That's the gist of it. For more details about me, hop on to [my site](https://adhywiranata.com).
