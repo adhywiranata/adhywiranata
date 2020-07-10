@@ -13,8 +13,4 @@ That's the gist of it. For more details about me, hop on to [my site](https://ad
 
 Thanks for your visit, looking forward for any way we can collaborate in the __future__! 🚀
 
-<br />
-<br />
-<br />
-
 👈 p.s. Check out for some of my contracts details if you'd like!.
