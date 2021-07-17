@@ -1,6 +1,6 @@
 ### Hi! 🚀
 
-My name's Adhy Wiranata - Software Engineer based in Jakarta, Indonesia with 5+ years of experience working on JavaScript, Go, Ruby, and PHP. I mostly dabbles on Front-End (JS, React, Vue), Back-End (NodeJS, Ruby, Go, PHP), Mobile App (React Native), and AWS (mostly working on serverless and containers).
+My name's Adhy Wiranata - Software Engineer based in Jakarta, Indonesia with 5+ years of experience working on JavaScript, Go, Ruby, and PHP. I mostly dabbles on Front-End (JS, React, jQuery (proudly so)), Back-End (NodeJS, Ruby, Go, PHP), Mobile App (React Native), and AWS (mostly working on serverless and containers).
 
 - 🌱 As a Software engineer, I am driven to craft software products with impact.
 - ⚙️ I love problems and passionate in solving them through pragmatic solutions.
